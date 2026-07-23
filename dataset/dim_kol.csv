@@ -1,0 +1,29 @@
+﻿kol_id,kol_name,platform,follower_count,engagement_rate,niche,audience_gender_dominant,audience_age_group,rate_card,kol_tier,city,credibility_score
+KOL001,Ayu Beauty,Instagram,356445,0.0218,Lifestyle,Female,25-34,88770000,Macro,Yogyakarta,88.8
+KOL002,Raka Review,Instagram,983850,0.019,Lifestyle,Male,18-24,48813000,Macro,Jakarta,75.1
+KOL003,Nadia Skincare,TikTok,79396,0.0432,Beauty,Mixed,25-34,11361000,Micro,Semarang,80.4
+KOL004,Fitri Glow,Instagram,11547,0.0681,Skincare,Female,35-44,9720000,Micro,Jakarta,97.7
+KOL005,Dimas Deals,Instagram,8227,0.078,Fashion,Male,45-54,1063000,Nano,Jakarta,81.1
+KOL006,Maya Lifestyle,TikTok,29550,0.0689,Beauty,Female,18-24,3318000,Micro,Medan,61.1
+KOL007,Salsa Makeup,Instagram,6036,0.096,Skincare,Male,45-54,966000,Nano,Semarang,74.3
+KOL008,Lina Family,TikTok,20374,0.0403,Beauty,Female,35-44,8340000,Micro,Bandung,69.9
+KOL009,Tara Wellness,Instagram,7644,0.0906,Wellness,Female,35-44,941000,Nano,Bandung,66.5
+KOL010,Bima Grooming,Instagram,339906,0.0409,Skincare,Male,18-24,36025000,Mid-tier,Jakarta,97.7
+KOL011,Citra Daily,Instagram,74635,0.081,Beauty,Female,18-24,3438000,Micro,Jakarta,82.7
+KOL012,Vina Honest,Multi Platform,296837,0.0361,Skincare,Female,18-24,21809000,Mid-tier,Jakarta,95.9
+KOL013,Kevin Gadget,TikTok,29759,0.0537,Tech,Female,35-44,2492000,Micro,Semarang,63.7
+KOL014,Rani Hijab,Instagram,236428,0.0475,Wellness,Female,35-44,33385000,Mid-tier,Bandung,79.1
+KOL015,Putri Acne Diary,Instagram,14279,0.0589,Skincare,Female,25-34,3397000,Micro,Medan,73.0
+KOL016,Aldi Fitness,TikTok,786048,0.031,Skincare,Female,35-44,89981000,Macro,Surabaya,68.6
+KOL017,Mira Mom Life,Instagram,89489,0.0493,Fashion,Female,25-34,16072000,Mid-tier,Jakarta,62.9
+KOL018,Niko Campus,Multi Platform,189813,0.0524,Wellness,Female,18-24,27811000,Mid-tier,Jakarta,90.9
+KOL019,Dea Dermatips,YouTube,208500,0.0433,Mom and Family,Female,35-44,23980000,Mid-tier,Jakarta,94.7
+KOL020,Farah Fashion,Instagram,276778,0.0521,Lifestyle,Male,18-24,22558000,Mid-tier,Jakarta,75.2
+KOL021,Icha Budget,TikTok,3603,0.0691,Skincare,Mixed,35-44,2389000,Nano,Jakarta,92.9
+KOL022,Tasya Routine,TikTok,308510,0.0291,Fashion,Male,18-24,38536000,Mid-tier,Yogyakarta,62.0
+KOL023,Wulan Review,YouTube,32077, 0.0501 ,Fashion,Mixed,18-24,6423000,Micro,Jakarta,78.7
+KOL024,Rizky Viral,Instagram,7765,0.0466,Skincare,Female,35-44,2320000,Nano,Jakarta,75.6
+KOL025,Bella Beauty,YouTube,8739,0.0891,Skincare,Mixed,25-34,1810000,Nano,Yogyakarta,76.2
+KOL026,ayu beauty ,YouTube,7881,0.086,Lifestyle,Female,18-24,1633000,Nano,Denpasar,60.4
+KOL027,Nadia SkinCare,TikTok,3491,0.0473,Fashion,Female,45-54,1829000,Nano,Yogyakarta,74.7
+KOL028,Mega Celeb,Instagram,3200000,0.65,Lifestyle,Male,25-34,300000000,Mega,Jakarta,75.4

@@ -1,0 +1,63 @@
+﻿campaign_id,campaign_name,channel_id,objective,campaign_type,start_date,end_date,budget_planned,target_audience,product_category_focus,funnel_stage,campaign_status
+CMP0001,Meta Broad Prospecting - Glow Serum,CH001,Conversion,Always On,2025-01-05,2025-06-30,950000000,Female 18-34 Broad,Skincare,Consideration,Completed
+CMP0002,Meta Retargeting Cart Saver,CH001,Retargeting,Retargeting,2025-02-01,2025-12-31,260000000,ATC 14 days,Bundle,Conversion,Completed
+CMP0003,TikTok Viral Traffic - Glow Routine,CH003,Traffic,Viral Video,2025-03-01,2025-08-31,520000000,Gen Z Beauty Interest,Skincare,Consideration,Paused
+CMP0004,Google Search High Intent Skincare,CH002,Conversion,Search,2025-01-01,2025-12-31,620000000,Keyword high intent,Skincare,Conversion,Completed
+CMP0005,Email Payday Retention Blast,CH006,Retention,CRM,2025-01-20,2025-12-31,65000000,Existing Buyers,Bundle,Retention,Completed
+CMP0006,Mega KOL Awareness Lifestyle,CH010,Awareness,Influencer Launch,2025-05-01,2025-05-31,380000000,Mass audience,Wellness,Awareness,Completed
+CMP0007,Micro KOL Acne Proof Series,CH010,Conversion,Influencer Review,2025-07-01,2025-09-30,145000000,Acne prone audience,Skincare,Conversion,Completed
+CMP0008,Marketplace 9.9 Payday Deals,CH011,Conversion,Marketplace Sale,2025-09-01,2025-09-15,180000000,Marketplace deal hunters,Bundle,Conversion,Completed
+CMP0009,Flash Sale !!! Glow Box,CH001,Conversion,Flash Sale,2025-11-01,2025-12-15,420000000,Discount seekers,Bundle,Conversion,Completed
+CMP0010,TikTok Checkout Stress Test,CH003,Conversion,Spark Ads,2025-10-01,2025-12-31,360000000,Mobile first buyers,Makeup,Conversion,Completed
+CMP0011,Broken Date Campaign,CH002,Traffic,Search,2025-08-30,2025-08-01,70000000,General,Body Care,Awareness,Completed
+CMP0012,Email Payday Retention Blast,CH006,Retention,CRM,2025-07-20,2025-08-05,25000000,VIP Buyers,Bundle,Retention,Completed
+CMP0013,Meta Ads Reach - Makeup Jul,CH001,Awareness,Reach,2025-07-16,2025-09-11,219261000,New Visitor Lookalike,Makeup,Awareness,Completed
+CMP0014,WhatsApp Broadcast CRM - Body Care Jul,CH007,Retention,CRM,2025-07-15,2025-09-14,13483000,Discount Seeker,Body Care,Retention,Paused
+CMP0015,SEO Lead Magnet - Bundle Apr,CH008,Lead Generation,Lead Magnet,2025-04-20,2025-06-27,15288000,Existing Customer,Bundle,Consideration,Paused
+CMP0016,Marketplace Ads Product View Retargeting - Hair Care May,CH011,Retargeting,Product View Retargeting,2025-05-19,2025-06-30,142983000,Existing Customer,Hair Care,Conversion,Completed
+CMP0017,Meta Ads Cart Recovery - Makeup Jun,CH001,Retargeting,Cart Recovery,2025-06-30,2025-08-17,162636000,Female 18-24 Beauty Enthusiast,Makeup,Conversion,Paused
+CMP0018,Marketplace Ads Always On - Wellness Feb,CH011,Conversion,Always On,2025-02-25,2025-05-15,51155000,Mom and Family,Wellness,Conversion,Paused
+CMP0019,TikTok Ads Marketplace Sale - Makeup Oct,CH003,Conversion,Marketplace Sale,2025-10-24,2025-12-31,93376000,Female 25-34 Urban Worker,Makeup,Conversion,Completed
+CMP0020,KOL Flash Sale - Bundle Jan,CH010,Conversion,Flash Sale,2025-01-04,2025-04-05,247920000,New Visitor Lookalike,Bundle,Conversion,Completed
+CMP0021, KOL UGC Challenge - Skincare Apr ,CH010,Engagement,UGC Challenge,2025-04-09,2025-05-13,87478000,Male 18-34 Grooming Interest,Skincare,Awareness,Completed
+CMP0022,WhatsApp Broadcast CRM - Skincare Oct,CH007,Retention,CRM,2025-10-18,2025-12-31,20872000,High Value Customer,Skincare,Retention,Paused
+CMP0023,Meta Ads Search - Makeup Oct,CH001,Traffic,Search,2025-10-26,2025-12-31,132910000,Existing Customer,Makeup,Consideration,Active
+CMP0024,WhatsApp Broadcast Flash Sale - Body Care Jun,CH007,Conversion,Flash Sale,2025-06-04,2025-09-08,14628000,Mom and Family,Body Care,Conversion,Completed
+CMP0025,Google Ads Always On - Skincare Jul,CH002,Conversion,Always On,2025-07-14,2025-10-25,168982000,Female 18-24 Beauty Enthusiast,Skincare,Conversion,Completed
+CMP0026,Affiliate Brand Video - Wellness May,CH009,Awareness,Brand Video,2025-05-24,2025-08-30,65588000,High Value Customer,Wellness,Awareness,Active
+CMP0027,KOL Always On - Bundle Sep,CH010,Conversion,Always On,2025-09-16,2025-11-13,174680000,Mom and Family,Bundle,Conversion,Completed
+CMP0028,Affiliate Influencer Launch - Skincare Jun,CH009,Awareness,Influencer Launch,2025-06-26,2025-08-10,28480000,Mom and Family,Skincare,Awareness,Completed
+CMP0029,Direct Marketplace Sale - Skincare Mar,CH012,Conversion,Marketplace Sale,2025-03-13,2025-05-21,4323000,Female 18-24 Beauty Enthusiast,Skincare,Conversion,Completed
+CMP0030,Meta Ads Brand Video - Bundle Sep,CH001,Awareness,Brand Video,2025-09-14,2025-12-01,217007000,Marketplace Deal Hunter,Bundle,Awareness,Completed
+CMP0031, Google Ads Quiz - Skincare Nov ,CH002,Lead Generation,Quiz,2025-11-01,2025-12-31,98391000,Mom and Family,Skincare,Consideration,Completed
+CMP0032,Google Ads Cart Recovery - Bundle Aug,CH002,Retargeting,Cart Recovery,2025-08-05,2025-11-14,104326000,Male 18-34 Grooming Interest,Bundle,Conversion,Active
+CMP0033,Google Ads Search - Bundle May,CH002,Traffic,Search,2025-05-16,2025-08-16,143041000,Female 25-34 Urban Worker,Bundle,Consideration,Completed
+CMP0034,Direct Search - Body Care Nov,CH012,Traffic,Search,2025-11-16,2025-12-31,7323000,New Visitor Lookalike,Body Care,Consideration,Completed
+CMP0035,Google Ads Search - Wellness Oct,CH002,Traffic,Search,2025-10-09,2025-11-27,129202000,Existing Customer,Wellness,Consideration,Completed
+CMP0036,Marketplace Ads Always On - Men Grooming May,CH011,Conversion,Always On,2025-05-15,2025-06-30,106488000,Discount Seeker,Men Grooming,Conversion,Completed
+CMP0037,Google Ads Always On - Men Grooming Jan,CH002,Conversion,Always On,2025-01-01,2025-02-14,65003000,New Visitor Lookalike,Men Grooming,Conversion,Completed
+CMP0038,Direct Content Distribution - Men Grooming Jun,CH012,Traffic,Content Distribution,2025-06-29,2025-08-10,6301000,Female 18-24 Beauty Enthusiast,Men Grooming,Consideration,Completed
+CMP0039, Direct Search - Skincare Oct ,CH012,Traffic,Search,2025-10-28,2025-12-31,5914000,Female 18-24 Beauty Enthusiast,Skincare,Consideration,Completed
+CMP0040,Email Marketing CRM - Skincare Feb,CH006,Retention,CRM,2025-02-02,2025-04-19,13228000,Female 25-34 Urban Worker,Skincare,Retention,Completed
+CMP0041,Instagram Organic Reach - Skincare May,CH004,Awareness,Reach,2025-05-13,2025-08-18,9877000,Male 18-34 Grooming Interest,Skincare,Awareness,Completed
+CMP0042,KOL Always On - Makeup Jan,CH010,Conversion,Always On,2025-01-01,2025-03-14,87134000,Male 18-34 Grooming Interest,Makeup,Conversion,Completed
+CMP0043,Direct Flash Sale - Bundle Mar,CH012,Conversion,Flash Sale,2025-03-03,2025-04-03,4829000,Female 18-24 Beauty Enthusiast,Bundle,Conversion,Completed
+CMP0044,Meta Ads Influencer Launch - Skincare Jan,CH001,Awareness,Influencer Launch,2025-01-16,2025-02-11,178150000,Female 18-24 Beauty Enthusiast,Skincare,Awareness,Active
+CMP0045,WhatsApp Broadcast VIP Promo - Bundle Apr,CH007,Retention,VIP Promo,2025-04-04,2025-05-15,8969000,Mom and Family,Bundle,Retention,Completed
+CMP0046,KOL Brand Video - Wellness Oct,CH010,Awareness,Brand Video,2025-10-22,2025-12-06,81516000,Female 18-24 Beauty Enthusiast,Wellness,Awareness,Completed
+CMP0047,TikTok Ads Reach - Bundle Sep,CH003,Awareness,Reach,2025-09-28,2025-12-20,88717000,Discount Seeker,Bundle,Awareness,Completed
+CMP0048, Google Ads Lead Magnet - Body Care Aug ,CH002,Lead Generation,Lead Magnet,2025-08-25,2025-09-23, 218643000 ,Discount Seeker,Body Care,Consideration,Completed
+CMP0049,Marketplace Ads Product View Retargeting - Wellness Feb,CH011,Retargeting,Product View Retargeting,2025-02-28,2025-04-12,132418000,Discount Seeker,Wellness,Conversion,Paused
+CMP0050,Meta Ads Always On - Men Grooming Jan,CH001,Conversion,Always On,2025-01-17,2025-04-22,118196000,New Visitor Lookalike,Men Grooming,Conversion,Completed
+CMP0051, Affiliate Brand Video - Family Care Feb ,CH009,Awareness,Brand Video,2025-02-17,2025-04-14,103560000,Existing Customer,Family Care,Awareness,Completed
+CMP0052,Meta Ads Cart Recovery - Bundle Jun,CH001,Retargeting,Cart Recovery,2025-06-14,2025-08-14,98381000,Female 25-34 Urban Worker,Bundle,Conversion,Active
+CMP0053,Marketplace Ads Flash Sale - Bundle Jul,CH011,Conversion,Flash Sale,2025-07-26,2025-11-01,122195000,High Value Customer,Bundle,Conversion,Paused
+CMP0054,WhatsApp Broadcast VIP Promo - Bundle May,CH007,Retention,VIP Promo,2025-05-02,2025-08-07,19962000,High Value Customer,Bundle,Retention,Completed
+CMP0055,Direct Marketplace Sale - Men Grooming Jul,CH012,Conversion,Marketplace Sale,2025-07-21,2025-09-13,5013000,New Visitor Lookalike,Men Grooming,Conversion,Completed
+CMP0056,Direct Always On - Makeup Apr,CH012,Conversion,Always On,2025-04-13,2025-06-03,3153000,High Value Customer,Makeup,Conversion,Completed
+CMP0057,Direct Always On - Bundle Jul,CH012,Conversion,Always On,2025-07-06,2025-10-13,2750000,Existing Customer,Bundle,Conversion,Completed
+CMP0058,TikTok Ads Influencer Launch - Family Care Mar,CH003,Awareness,Influencer Launch,2025-03-30,2025-05-09,139615000,Male 18-34 Grooming Interest,Family Care,Awareness,Completed
+CMP0059,KOL Marketplace Sale - Family Care Jul,CH010,Conversion,Marketplace Sale,2025-07-16,2025-11-01,111291000,Male 18-34 Grooming Interest,Family Care,Conversion,Completed
+CMP0060,Meta Ads Product View Retargeting - Hair Care Nov,CH001,Retargeting,Product View Retargeting,2025-11-01,2025-12-31,101409000,Marketplace Deal Hunter,Hair Care,Conversion,Completed
+CMP0061,Affiliate Flash Sale - Body Care Feb,CH009,Conversion,Flash Sale,2025-02-05,2025-05-03,27563000,Female 25-34 Urban Worker,Body Care,Conversion,Active
+CMP0062,Meta Ads Content Distribution - Skincare Sep,CH001,Traffic,Content Distribution,2025-09-05,2025-11-21,148578000,High Value Customer,Skincare,Consideration,Active

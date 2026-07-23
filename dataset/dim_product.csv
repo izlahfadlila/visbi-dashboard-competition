@@ -1,0 +1,41 @@
+﻿product_id,product_name,product_category,base_price,margin_percentage,stock_status,launch_date,product_rating
+PRD001,Glow Serum 10%,Skincare,179000,0.54,In Stock,2023-03-09,4.77
+PRD002,Barrier Repair Moisturizer,Skincare,159000, 0.52 ,In Stock,2024-08-11,4.64
+PRD003,Acne Calm Gel,Skincare,99000,0.5,In Stock,2024-01-26,4.54
+PRD004,Daily Sunscreen SPF50,Skincare,129000,0.48,Low Stock,2023-04-08,4.58
+PRD005,Retinol Night Cream,Skincare,219000,0.58,In Stock,2023-12-09,4.46
+PRD006,Hydrating Toner,Skincare,119000,0.51,In Stock,2023-06-22,4.38
+PRD007,Vitamin C Ampoule,Skincare,199000,0.56,In Stock,2023-02-21,4.34
+PRD008,Brightening Face Wash,Skincare,89000,0.49,In Stock,2025-01-07,4.67
+PRD009,Lip Tint Berry,Makeup,79000,0.45,In Stock,2024-07-18,4.11
+PRD010,Cushion Matte Beige,Makeup,189000,0.47,In Stock,2024-06-03,4.3
+PRD011,Brow Definer,Makeup,69000,0.44,In Stock,2023-12-18,4.42
+PRD012,Loose Powder Natural,Makeup,109000,0.46,Low Stock,2023-04-09,3.99
+PRD013,Body Bright Lotion,Body Care,139000,0.53,In Stock,2023-03-15,4.62
+PRD014,Body Scrub Coffee,Body Care,99000,0.49,In Stock,2023-08-26,4.44
+PRD015,Hand Cream Sakura,Body Care,59000,42.0%,In Stock,2024-09-24,3.94
+PRD016,Body Serum Niacinamide,Body Care,149000,0.52,In Stock,2023-06-01,4.39
+PRD017,Hair Growth Tonic,Hair Care,169000,0.55,In Stock,2023-01-29,3.7
+PRD018,Anti Dandruff Shampoo,Hair Care,119000,0.48,In Stock,2023-04-17,4.31
+PRD019,Hair Mask Keratin,Hair Care,129000,0.5,In Stock,2023-03-10,4.45
+PRD020,Collagen Drink 7 Sachet,Wellness,229000,0.57,In Stock,2024-02-29,3.8
+PRD021,Slim Tea Detox,Wellness,99000,0.6,In Stock,2024-09-16,3.72
+PRD022,Vitamin Gummies,Wellness,149000,0.51,In Stock,2023-02-14,4.21
+PRD023,Starter Kit Acne,Bundle,329000,0.5,In Stock,2023-11-07,4.43
+PRD024,Glow Routine Bundle,Bundle,459000,0.48,In Stock,2023-11-05,4.62
+PRD025,Payday Beauty Box,Bundle,399000,0.43,Seasonal,2024-11-15,4.38
+PRD026,Travel Mini Set,Bundle,189000,0.46,In Stock,2024-01-16,4.0
+PRD027,Sensitive Skin Kit,Bundle,389000, 0.51 ,In Stock,2024-12-30,4.44
+PRD028,Men Face Wash,Men Grooming,89000,0.47,In Stock,2023-03-08,4.14
+PRD029,Men Matte Moisturizer,Men Grooming,119000,0.49,In Stock,2023-07-18,3.93
+PRD030,Beard Care Oil,Men Grooming,99000,0.48,Low Stock,2024-06-28,3.69
+PRD031,Baby Mild Lotion,Family Care,85000,0.41,In Stock,2024-07-02,4.24
+PRD032,Family Sunscreen,Family Care,169000,0.44,In Stock,2023-08-21,4.44
+PRD033,Mom Care Belly Cream,Family Care,179000,0.5,In Stock,2023-08-23,4.12
+PRD034,Fragrance Mist Vanilla,Fragrance,129000,0.56,In Stock,2024-04-21,4.44
+PRD035,Fragrance Mist Fresh,Fragrance,129000,0.55,In Stock,2023-05-24,3.98
+PRD036,Roll On Deodorant,Body Care,49000,0.39,In Stock,2023-09-08,3.75
+PRD037,Deep Clean Clay Mask,Skincare,139000, 0.51 ,In Stock,2024-04-10,4.46
+PRD038,Peeling Serum AHA BHA,Skincare,159000,0.52,In Stock,2024-03-25,3.97
+PRD039,After Sun Gel,Skincare,89000,0.45,Seasonal,2023-05-03,3.95
+PRD040,Flash Sale Mystery Box,Bundle,299000,0.34,Seasonal,2024-03-10,3.67
