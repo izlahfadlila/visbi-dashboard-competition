@@ -1,0 +1,195 @@
+ad_id,campaign_id,creative_type,content_angle,headline,CTA,landing_page,offer_type,ad_format
+AD00001,CMP0001,Video,Problem Solution,Problem Solution untuk Skincare - Claim Voucher,Claim Voucher,/product/glow-serum,No Offer,Message
+AD00002,CMP0001,Carousel,Urgency,Urgency untuk Skincare - Claim Voucher,Claim Voucher,/bundle/glow-routine,20% Discount,Feed
+AD00003,CMP0001,Video,Discount,Discount untuk Skincare - Subscribe,Subscribe,/promo-flash-sale,Voucher Cashback,Feed
+AD00004,CMP0002,Static Image,Problem Solution,Problem Solution untuk Bundle - Buy Now,Buy Now,/product/glow-serum,Buy 1 Get 1,Search
+AD00005,CMP0002,Reels,Testimonial,Testimonial untuk Bundle - Claim Voucher,Claim Voucher,/product/glow-serum,Voucher Cashback,Search
+AD00006,CMP0002,Static Image,Discount,Discount untuk Bundle - Chat Admin,Chat Admin,/product/acne-calm,No Offer,Display
+AD00007,CMP0002,Carousel,Urgency,Urgency untuk Bundle - Add to Cart,Add To Cart,/product/glow-serum,Buy 1 Get 1,Feed
+AD00008,CMP0003,Video,Problem Solution,Problem Solution untuk Skincare - Buy Now,Buy Now,/promo-flash-sale,No Offer,Story
+AD00009,CMP0003,Reels,Lifestyle,Lifestyle untuk Skincare - Shop Now,Shop Now,/quiz/skincare,20% Discount,Search
+AD00010,CMP0003,Story,Lifestyle,Lifestyle untuk Skincare - Shop Now,Shop Now,/product/glow-serum,Free Shipping,Search
+AD00011,CMP0004,Display Banner,Educational,Educational untuk Skincare - Add to Cart,Add To Cart,/blog/skincare-routine,20% Discount,Marketplace Slot
+AD00012,CMP0004,Display Banner,Problem Solution,Problem Solution untuk Skincare - Learn More,Learn More,/promo-flash-sale,20% Discount,Message
+AD00013,CMP0004,Search Ad,Testimonial,Testimonial untuk Skincare - Learn More,Learn More,/product/acne-calm,10% Discount,Feed
+AD00014,CMP0004,Search Ad,Product Benefit,Product Benefit untuk Skincare - Learn More,Learn More,/quiz/skincare,No Offer,Short Video
+AD00015,CMP0005,Email Banner,Problem Solution,Problem Solution untuk Bundle - Learn More,Learn More,/product/glow-serum,10% Discount,Short Video
+AD00016,CMP0005,Static Image,Lifestyle,Lifestyle untuk Bundle - Buy Now,Buy Now,/bundle/glow-routine,Free Shipping,Feed
+AD00017,CMP0005,Static Image,Product Benefit,Product Benefit untuk Bundle - Shop Now,Shop Now,/blog/skincare-routine,10% Discount,Story
+AD00018,CMP0005,Static Image,Educational,Educational untuk Bundle - Learn More,Learn More,/promo-flash-sale,Buy 1 Get 1,Search
+AD00019,CMP0006,Story,Testimonial,Testimonial untuk Wellness - Learn More,Learn More,/product/acne-calm,No Offer,Short Video
+AD00020,CMP0006,Reels,Lifestyle,Lifestyle untuk Wellness - Add to Cart,Add To Cart,/lp/ugc-review,Bundle Deal,Feed
+AD00021,CMP0006,Reels,Product Benefit,Product Benefit untuk Wellness - Shop Now,Shop Now,/product/acne-calm,20% Discount,Short Video
+AD00022,CMP0006,Story,Educational,Educational untuk Wellness - Buy Now,Buy Now,/,10% Discount,Feed
+AD00023,CMP0007,Video,Discount,Discount untuk Skincare - Shop Now,Shop Now,/blog/skincare-routine,No Offer,Display
+AD00024,CMP0007,Story,Lifestyle,Lifestyle untuk Skincare - Subscribe,Subscribe,/,No Offer,Message
+AD00025,CMP0007,Reels,Product Benefit,Product Benefit untuk Skincare - Buy Now,Buy Now,/lp/ugc-review,No Offer,Search
+AD00026,CMP0007,Reels,Urgency,Urgency untuk Skincare - Learn More,Learn More,/blog/skincare-routine,Voucher Cashback,Short Video
+AD00027,CMP0008,Marketplace Banner,Lifestyle,Lifestyle untuk Bundle - Shop Now,Shop Now,/marketplace-official-store,Free Shipping,Short Video
+AD00028,CMP0008,Search Ad,Problem Solution,Problem Solution untuk Bundle - Add to Cart,Add To Cart,/marketplace-official-store,10% Discount,Story
+AD00029,CMP0008,Search Ad,Urgency,Urgency untuk Bundle - Add to Cart,Add To Cart,/marketplace-official-store,Free Shipping,Message
+AD00030,CMP0008,Marketplace Banner,Discount,Discount untuk Bundle - Buy Now,Buy Now,/marketplace-official-store,Free Shipping,Feed
+AD00031,CMP0009,Reels,Urgency,Urgency untuk Bundle - Buy Now,Buy Now,/promo-flash-sale,Bundle Deal,Feed
+AD00032,CMP0009,Reels,Educational,Educational untuk Bundle - Add to Cart,Add To Cart,/promo-flash-sale,Free Shipping,Story
+AD00033,CMP0010,Story,Urgency,Urgency untuk Makeup - Shop Now,Shop Now,/lp/ugc-review,20% Discount,Story
+AD00034,CMP0010,Video,Problem Solution,Problem Solution untuk Makeup - Buy Now,Buy Now,/lp/ugc-review,No Offer,Feed
+AD00035,CMP0010,Reels,Educational,Educational untuk Makeup - Shop Now,Shop Now,/blog/skincare-routine,No Offer,Story
+AD00036,CMP0011,Display Banner,Lifestyle,Lifestyle untuk Body Care - Chat Admin,Chat Admin,/product/glow-serum,No Offer,Short Video
+AD00037,CMP0011,Search Ad,Product Benefit,Product Benefit untuk Body Care - Claim Voucher,Claim Voucher,/lp/ugc-review,Free Shipping,Display
+AD00038,CMP0012,Static Image,Testimonial,Testimonial untuk Bundle - Shop Now,Shop Now,/promo-flash-sale,Bundle Deal,Story
+AD00039,CMP0012,Static Image,Problem Solution,Problem Solution untuk Bundle - Claim Voucher,Claim Voucher,/product/acne-calm,20% Discount,Feed
+AD00040,CMP0012,Static Image,Problem Solution,Problem Solution untuk Bundle - Chat Admin,Chat Admin,/bundle/glow-routine,No Offer,Search
+AD00041,CMP0012,Email Banner,Lifestyle,Lifestyle untuk Bundle - Buy Now,Buy Now,/product/glow-serum,20% Discount,Feed
+AD00042,CMP0013,Reels,Problem Solution,Problem Solution untuk Makeup - Shop Now,Shop Now,/product/glow-serum,No Offer,Story
+AD00043,CMP0013,Static Image,Discount,Discount untuk Makeup - Shop Now,Shop Now,/product/acne-calm,Free Shipping,Marketplace Slot
+AD00044,CMP0013,Video,Discount,Discount untuk Makeup - Buy Now,Buy Now,/product/glow-serum,Free Shipping,Short Video
+AD00045,CMP0013,Carousel,Educational,Educational untuk Makeup - Claim Voucher,Claim Voucher,/blog/skincare-routine,No Offer,Marketplace Slot
+AD00046,CMP0014,Message Template,Product Benefit,Product Benefit untuk Body Care - Add to Cart,Add To Cart,/product/glow-serum,Voucher Cashback,Marketplace Slot
+AD00047,CMP0014,Message Template,Testimonial,Testimonial untuk Body Care - Shop Now,Shop Now,/bundle/glow-routine,No Offer,Feed
+AD00048,CMP0015,Seo Article,Product Benefit,Product Benefit untuk Bundle - Shop Now,Shop Now,/quiz/skincare,Free Guide,Display
+AD00049,CMP0015,Seo Article,Lifestyle,Lifestyle untuk Bundle - Subscribe,Subscribe,/quiz/skincare,Free Guide,Search
+AD00050,CMP0015,Display Banner,Product Benefit,Product Benefit untuk Bundle - Claim Voucher,Claim Voucher,/quiz/skincare,Free Guide,Story
+AD00051,CMP0015,Seo Article,Problem Solution,Problem Solution untuk Bundle - Shop Now,Shop Now,/quiz/skincare,Free Guide,Short Video
+AD00052,CMP0016,Search Ad,Testimonial,Testimonial untuk Hair Care - Buy Now,Buy Now,/marketplace-official-store,Free Shipping,Short Video
+AD00053,CMP0016,Marketplace Banner,Lifestyle,Lifestyle untuk Hair Care - Claim Voucher,Claim Voucher,/marketplace-official-store,Free Shipping,Story
+AD00054,CMP0016,Marketplace Banner,Lifestyle,Lifestyle untuk Hair Care - Claim Voucher,Claim Voucher,/marketplace-official-store,Voucher Cashback,Display
+AD00055,CMP0016,Marketplace Banner,Discount,Discount untuk Hair Care - Add to Cart,Add To Cart,/marketplace-official-store,10% Discount,Feed
+AD00056,CMP0017,Static Image,Problem Solution,Problem Solution untuk Makeup - Chat Admin,Chat Admin,/promo-flash-sale,20% Discount,Short Video
+AD00057,CMP0017,Reels,Testimonial,Testimonial untuk Makeup - Claim Voucher,Claim Voucher,/blog/skincare-routine,Voucher Cashback,Display
+AD00058,CMP0017,Carousel,Educational,Educational untuk Makeup - Shop Now,Shop Now,/product/glow-serum,Bundle Deal,Marketplace Slot
+AD00059,CMP0018,Marketplace Banner,Product Benefit,Product Benefit untuk Wellness - Shop Now,Shop Now,/marketplace-official-store,Voucher Cashback,Short Video
+AD00060,CMP0018,Search Ad,Educational,Educational untuk Wellness - Shop Now,Shop Now,/marketplace-official-store,Voucher Cashback,Search
+AD00061,CMP0018,Search Ad,Testimonial,Testimonial untuk Wellness - Learn More,Learn More,/marketplace-official-store,Voucher Cashback,Display
+AD00062,CMP0018,Marketplace Banner,Discount,Discount untuk Wellness - Claim Voucher,Claim Voucher,/marketplace-official-store,Free Shipping,Feed
+AD00063,CMP0019,Story,Discount,Discount untuk Makeup - Subscribe,Subscribe,/promo-flash-sale,Bundle Deal,Display
+AD00064,CMP0019,Video,Educational,Educational untuk Makeup - Learn More,Learn More,/promo-flash-sale,10% Discount,Marketplace Slot
+AD00065,CMP0019,Story,Lifestyle,Lifestyle untuk Makeup - Buy Now,Buy Now,/quiz/skincare,10% Discount,Marketplace Slot
+AD00066,CMP0020,Story,Educational,Educational untuk Bundle - Buy Now,Buy Now,/promo-flash-sale,20% Discount,Search
+AD00067,CMP0020,Reels,Lifestyle,Lifestyle untuk Bundle - Claim Voucher,Claim Voucher,/promo-flash-sale,Free Shipping,Marketplace Slot
+AD00068,CMP0020,Story,Problem Solution,Problem Solution untuk Bundle - Buy Now,Buy Now,/promo-flash-sale,20% Discount,Message
+AD00069,CMP0021,Video,Educational,Educational untuk Skincare - Subscribe,Subscribe,/checkout-shipping,Voucher Cashback,Search
+AD00070,CMP0021,Reels,Product Benefit,Product Benefit untuk Skincare - Chat Admin,Chat Admin,/blog/skincare-routine,Free Shipping,Story
+AD00071,CMP0022,Static Image,Problem Solution,Problem Solution untuk Skincare - Shop Now,Shop Now,/product/glow-serum,No Offer,Marketplace Slot
+AD00072,CMP0022,Static Image,Product Benefit,Product Benefit untuk Skincare - Buy Now,Buy Now,/product/glow-serum,No Offer,Search
+AD00073,CMP0022,Message Template,Lifestyle,Lifestyle untuk Skincare - Subscribe,Subscribe,/product/glow-serum,No Offer,Feed
+AD00074,CMP0022,Message Template,Product Benefit,Product Benefit untuk Skincare - Chat Admin,Chat Admin,/bundle/glow-routine,Free Shipping,Display
+AD00075,CMP0023,Carousel,Lifestyle,Lifestyle untuk Makeup - Shop Now,Shop Now,/product/glow-serum,No Offer,Story
+AD00076,CMP0023,Story,Urgency,Urgency untuk Makeup - Claim Voucher,Claim Voucher,/product/glow-serum,10% Discount,Search
+AD00077,CMP0023,Video,Problem Solution,Problem Solution untuk Makeup - Learn More,Learn More,/product/glow-serum,Buy 1 Get 1,Search
+AD00078,CMP0024,Static Image,Product Benefit,Product Benefit untuk Body Care - Claim Voucher,Claim Voucher,/promo-flash-sale,Free Shipping,Search
+AD00079,CMP0024,Message Template,Testimonial,Testimonial untuk Body Care - Buy Now,Buy Now,/promo-flash-sale,Free Shipping,Feed
+AD00080,CMP0024,Message Template,Lifestyle,Lifestyle untuk Body Care - Claim Voucher,Claim Voucher,/promo-flash-sale,Voucher Cashback,Short Video
+AD00081,CMP0024,Static Image,Product Benefit,Product Benefit untuk Body Care - Add to Cart,Add To Cart,/promo-flash-sale,Free Shipping,Display
+AD00082,CMP0025,Search Ad,Product Benefit,Product Benefit untuk Skincare - Learn More,Learn More,/blog/skincare-routine,10% Discount,Search
+AD00083,CMP0025,Search Ad,Urgency,Urgency untuk Skincare - Shop Now,Shop Now,/product/glow-serum,Free Shipping,Display
+AD00084,CMP0026,Static Image,Urgency,Urgency untuk Wellness - Chat Admin,Chat Admin,/product/acne-calm,No Offer,Feed
+AD00085,CMP0026,Static Image,Problem Solution,Problem Solution untuk Wellness - Claim Voucher,Claim Voucher,/checkout-shipping,Bundle Deal,Story
+AD00086,CMP0026,Affiliate Link,Testimonial,Testimonial untuk Wellness - Buy Now,Buy Now,/product/acne-calm,10% Discount,Short Video
+AD00087,CMP0027,Reels,Testimonial,Testimonial untuk Bundle - Add to Cart,Add To Cart,/lp/ugc-review,Bundle Deal,Feed
+AD00088,CMP0027,Video,Problem Solution,Problem Solution untuk Bundle - Buy Now,Buy Now,/promo-flash-sale,10% Discount,Story
+AD00089,CMP0028,Affiliate Link,Problem Solution,Problem Solution untuk Skincare - Buy Now,Buy Now,/promo-flash-sale,10% Discount,Short Video
+AD00090,CMP0028,Static Image,Lifestyle,Lifestyle untuk Skincare - Claim Voucher,Claim Voucher,/bundle/glow-routine,Bundle Deal,Message
+AD00091,CMP0029,Website Direct,Educational,Educational untuk Skincare - Claim Voucher,Claim Voucher,/product/glow-serum,No Offer,Story
+AD00092,CMP0029,Website Direct,Product Benefit,Product Benefit untuk Skincare - Claim Voucher,Claim Voucher,/lp/ugc-review,No Offer,Short Video
+AD00093,CMP0029,Website Direct,Lifestyle,Lifestyle untuk Skincare - Chat Admin,Chat Admin,/checkout-shipping,10% Discount,Display
+AD00094,CMP0029,Website Direct,Lifestyle,Lifestyle untuk Skincare - Shop Now,Shop Now,/bundle/glow-routine,10% Discount,Feed
+AD00095,CMP0030,Video,Lifestyle,Lifestyle untuk Bundle - Shop Now,Shop Now,/lp/ugc-review,Free Shipping,Short Video
+AD00096,CMP0030,Reels,Problem Solution,Problem Solution untuk Bundle - Chat Admin,Chat Admin,/product/glow-serum,Free Shipping,Story
+AD00097,CMP0030,Static Image,Lifestyle,Lifestyle untuk Bundle - Shop Now,Shop Now,/promo-flash-sale,10% Discount,Short Video
+AD00098,CMP0030,Carousel,Testimonial,Testimonial untuk Bundle - Add to Cart,Add To Cart,/product/glow-serum,No Offer,Feed
+AD00099,CMP0031,Search Ad,Product Benefit,Product Benefit untuk Skincare - Add to Cart,Add To Cart,/quiz/skincare,Free Guide,Short Video
+AD00100,CMP0031,Search Ad,Testimonial,Testimonial untuk Skincare - Buy Now,Buy Now,/quiz/skincare,Free Guide,Search
+AD00101,CMP0032,Search Ad,Educational,Educational untuk Bundle - Learn More,Learn More,/quiz/skincare,Voucher Cashback,Marketplace Slot
+AD00102,CMP0032,Search Ad,Problem Solution,Problem Solution untuk Bundle - Learn More,Learn More,/lp/ugc-review,No Offer,Feed
+AD00103,CMP0033,Search Ad,Problem Solution,Problem Solution untuk Bundle - Add to Cart,Add To Cart,/marketplace-official-store,Bundle Deal,Feed
+AD00104,CMP0033,Display Banner,Discount,Discount untuk Bundle - Subscribe,Subscribe,/promo-flash-sale,No Offer,Feed
+AD00105,CMP0033,Display Banner,Discount,Discount untuk Bundle - Learn More,Learn More,/lp/ugc-review,No Offer,Short Video
+AD00106,CMP0034,Static Image,Problem Solution,Problem Solution untuk Body Care - Buy Now,Buy Now,/checkout-shipping,10% Discount,Feed
+AD00107,CMP0034,Static Image,Urgency,Urgency untuk Body Care - Subscribe,Subscribe,/quiz/skincare,20% Discount,Short Video
+AD00108,CMP0034,Website Direct,Educational,Educational untuk Body Care - Add to Cart,Add To Cart,/product/acne-calm,No Offer,Search
+AD00109,CMP0035,Display Banner,Testimonial,Testimonial untuk Wellness - Add to Cart,Add To Cart,/marketplace-official-store,No Offer,Search
+AD00110,CMP0035,Display Banner,Discount,Discount untuk Wellness - Add to Cart,Add To Cart,/blog/skincare-routine,Free Shipping,Story
+AD00111,CMP0035,Search Ad,Product Benefit,Product Benefit untuk Wellness - Claim Voucher,Claim Voucher,/blog/skincare-routine,No Offer,Story
+AD00112,CMP0036,Search Ad,Urgency,Urgency untuk Men Grooming - Shop Now,Shop Now,/marketplace-official-store,10% Discount,Short Video
+AD00113,CMP0036,Search Ad,Problem Solution,Problem Solution untuk Men Grooming - Learn More,Learn More,/marketplace-official-store,Free Shipping,Feed
+AD00114,CMP0036,Marketplace Banner,Urgency,Urgency untuk Men Grooming - Claim Voucher,Claim Voucher,/marketplace-official-store,Free Shipping,Message
+AD00115,CMP0037,Search Ad,Testimonial,Testimonial untuk Men Grooming - Subscribe,Subscribe,/,Free Shipping,Short Video
+AD00116,CMP0037,Search Ad,Educational,Educational untuk Men Grooming - Buy Now,Buy Now,/bundle/glow-routine,Bundle Deal,Feed
+AD00117,CMP0037,Display Banner,Lifestyle,Lifestyle untuk Men Grooming - Learn More,Learn More,/bundle/glow-routine,Free Shipping,Search
+AD00118,CMP0037,Search Ad,Product Benefit,Product Benefit untuk Men Grooming - Buy Now,Buy Now,/checkout-shipping,Bundle Deal,Feed
+AD00119,CMP0038,Website Direct,Lifestyle,Lifestyle untuk Men Grooming - Chat Admin,Chat Admin,/marketplace-official-store,10% Discount,Feed
+AD00120,CMP0038,Website Direct,Discount,Discount untuk Men Grooming - Buy Now,Buy Now,/blog/skincare-routine,No Offer,Display
+AD00121,CMP0039,Static Image,Product Benefit,Product Benefit untuk Skincare - Chat Admin,Chat Admin,/bundle/glow-routine,20% Discount,Story
+AD00122,CMP0039,Website Direct,Testimonial,Testimonial untuk Skincare - Buy Now,Buy Now,/lp/ugc-review,10% Discount,Short Video
+AD00123,CMP0040,Static Image,Problem Solution,Problem Solution untuk Skincare - Learn More,Learn More,/checkout-shipping,No Offer,Feed
+AD00124,CMP0040,Email Banner,Urgency,Urgency untuk Skincare - Chat Admin,Chat Admin,/product/acne-calm,20% Discount,Display
+AD00125,CMP0040,Static Image,Product Benefit,Product Benefit untuk Skincare - Learn More,Learn More,/product/glow-serum,Free Shipping,Feed
+AD00126,CMP0040,Email Banner,Testimonial,Testimonial untuk Skincare - Shop Now,Shop Now,/product/glow-serum,No Offer,Feed
+AD00127,CMP0041,Story,Product Benefit,Product Benefit untuk Skincare - Add to Cart,Add To Cart,/promo-flash-sale,20% Discount,Search
+AD00128,CMP0041,Story,Product Benefit,Product Benefit untuk Skincare - Learn More,Learn More,/lp/ugc-review,No Offer,Marketplace Slot
+AD00129,CMP0041,Reels,Testimonial,Testimonial untuk Skincare - Claim Voucher,Claim Voucher,/blog/skincare-routine,20% Discount,Feed
+AD00130,CMP0041,Reels,Discount,Discount untuk Skincare - Shop Now,Shop Now,/lp/ugc-review,Free Shipping,Feed
+AD00131,CMP0042,Reels,Lifestyle,Lifestyle untuk Makeup - Buy Now,Buy Now,/bundle/glow-routine,10% Discount,Short Video
+AD00132,CMP0042,Story,Problem Solution,Problem Solution untuk Makeup - Chat Admin,Chat Admin,/bundle/glow-routine,Bundle Deal,Feed
+AD00133,CMP0042,Story,Problem Solution,Problem Solution untuk Makeup - Shop Now,Shop Now,/product/acne-calm,20% Discount,Search
+AD00134,CMP0042,Reels,Product Benefit,Product Benefit untuk Makeup - Add to Cart,Add To Cart,/blog/skincare-routine,No Offer,Story
+AD00135,CMP0043,Static Image,Lifestyle,Lifestyle untuk Bundle - Subscribe,Subscribe,/promo-flash-sale,Voucher Cashback,Story
+AD00136,CMP0043,Static Image,Product Benefit,Product Benefit untuk Bundle - Claim Voucher,Claim Voucher,/promo-flash-sale,Free Shipping,Short Video
+AD00137,CMP0043,Website Direct,Problem Solution,Problem Solution untuk Bundle - Shop Now,Shop Now,/promo-flash-sale,20% Discount,Search
+AD00138,CMP0043,Website Direct,Problem Solution,Problem Solution untuk Bundle - Add to Cart,Add To Cart,/promo-flash-sale,Free Shipping,Feed
+AD00139,CMP0044,Carousel,Product Benefit,Product Benefit untuk Skincare - Shop Now,Shop Now,/,No Offer,Short Video
+AD00140,CMP0044,Video,Discount,Discount untuk Skincare - Learn More,Learn More,/promo-flash-sale,20% Discount,Message
+AD00141,CMP0044,Video,Discount,Discount untuk Skincare - Buy Now,Buy Now,/marketplace-official-store,20% Discount,Display
+AD00142,CMP0045,Message Template,Product Benefit,Product Benefit untuk Bundle - Subscribe,Subscribe,/bundle/glow-routine,10% Discount,Feed
+AD00143,CMP0045,Message Template,Discount,Discount untuk Bundle - Shop Now,Shop Now,/quiz/skincare,No Offer,Display
+AD00144,CMP0046,Reels,Urgency,Urgency untuk Wellness - Add to Cart,Add To Cart,/quiz/skincare,No Offer,Feed
+AD00145,CMP0046,Video,Discount,Discount untuk Wellness - Buy Now,Buy Now,/promo-flash-sale,10% Discount,Marketplace Slot
+AD00146,CMP0046,Story,Problem Solution,Problem Solution untuk Wellness - Chat Admin,Chat Admin,/,Buy 1 Get 1,Short Video
+AD00147,CMP0046,Video,Lifestyle,Lifestyle untuk Wellness - Chat Admin,Chat Admin,/blog/skincare-routine,20% Discount,Display
+AD00148,CMP0047,Video,Testimonial,Testimonial untuk Bundle - Claim Voucher,Claim Voucher,/product/glow-serum,Free Shipping,Short Video
+AD00149,CMP0047,Story,Testimonial,Testimonial untuk Bundle - Claim Voucher,Claim Voucher,/product/acne-calm,Voucher Cashback,Feed
+AD00150,CMP0047,Video,Problem Solution,Problem Solution untuk Bundle - Claim Voucher,Claim Voucher,/blog/skincare-routine,Free Shipping,Story
+AD00151,CMP0047,Video,Educational,Educational untuk Bundle - Shop Now,Shop Now,/bundle/glow-routine,Buy 1 Get 1,Marketplace Slot
+AD00152,CMP0048,Display Banner,Discount,Discount untuk Body Care - Buy Now,Buy Now,/quiz/skincare,Free Guide,Feed
+AD00153,CMP0048,Search Ad,Testimonial,Testimonial untuk Body Care - Add to Cart,Add To Cart,/quiz/skincare,Free Guide,Short Video
+AD00154,CMP0048,Search Ad,Product Benefit,Product Benefit untuk Body Care - Add to Cart,Add To Cart,/quiz/skincare,Free Guide,Display
+AD00155,CMP0049,Marketplace Banner,Educational,Educational untuk Wellness - Claim Voucher,Claim Voucher,/marketplace-official-store,Voucher Cashback,Feed
+AD00156,CMP0049,Marketplace Banner,Problem Solution,Problem Solution untuk Wellness - Buy Now,Buy Now,/marketplace-official-store,Voucher Cashback,Story
+AD00157,CMP0050,Video,Discount,Discount untuk Men Grooming - Learn More,Learn More,/promo-flash-sale,Free Shipping,Feed
+AD00158,CMP0050,Carousel,Testimonial,Testimonial untuk Men Grooming - Shop Now,Shop Now,/lp/ugc-review,10% Discount,Feed
+AD00159,CMP0051,Static Image,Problem Solution,Problem Solution untuk Family Care - Shop Now,Shop Now,/product/glow-serum,Bundle Deal,Display
+AD00160,CMP0051,Static Image,Urgency,Urgency untuk Family Care - Shop Now,Shop Now,/lp/ugc-review,Free Shipping,Feed
+AD00161,CMP0051,Static Image,Testimonial,Testimonial untuk Family Care - Claim Voucher,Claim Voucher,/product/glow-serum,10% Discount,Search
+AD00162,CMP0052,Carousel,Educational,Educational untuk Bundle - Shop Now,Shop Now,/promo-flash-sale,Voucher Cashback,Feed
+AD00163,CMP0052,Carousel,Lifestyle,Lifestyle untuk Bundle - Shop Now,Shop Now,/bundle/glow-routine,No Offer,Search
+AD00164,CMP0052,Carousel,Lifestyle,Lifestyle untuk Bundle - Shop Now,Shop Now,/bundle/glow-routine,Bundle Deal,Message
+AD00165,CMP0053,Marketplace Banner,Product Benefit,Product Benefit untuk Bundle - Subscribe,Subscribe,/promo-flash-sale,20% Discount,Story
+AD00166,CMP0053,Search Ad,Problem Solution,Problem Solution untuk Bundle - Learn More,Learn More,/promo-flash-sale,20% Discount,Story
+AD00167,CMP0053,Marketplace Banner,Problem Solution,Problem Solution untuk Bundle - Learn More,Learn More,/promo-flash-sale,Free Shipping,Display
+AD00168,CMP0053,Marketplace Banner,Problem Solution,Problem Solution untuk Bundle - Chat Admin,Chat Admin,/promo-flash-sale,20% Discount,Feed
+AD00169,CMP0054,Static Image,Problem Solution,Problem Solution untuk Bundle - Add to Cart,Add To Cart,/product/glow-serum,Bundle Deal,Short Video
+AD00170,CMP0054,Static Image,Urgency,Urgency untuk Bundle - Subscribe,Subscribe,/product/acne-calm,No Offer,Feed
+AD00171,CMP0054,Message Template,Product Benefit,Product Benefit untuk Bundle - Buy Now,Buy Now,/marketplace-official-store,10% Discount,Feed
+AD00172,CMP0055,Website Direct,Discount,Discount untuk Men Grooming - Shop Now,Shop Now,/product/glow-serum,10% Discount,Story
+AD00173,CMP0055,Static Image,Discount,Discount untuk Men Grooming - Buy Now,Buy Now,/product/glow-serum,Bundle Deal,Search
+AD00174,CMP0055,Static Image,Product Benefit,Product Benefit untuk Men Grooming - Shop Now,Shop Now,/lp/ugc-review,Bundle Deal,Search
+AD00175,CMP0056,Website Direct,Urgency,Urgency untuk Makeup - Add to Cart,Add To Cart,/product/acne-calm,Buy 1 Get 1,Short Video
+AD00176,CMP0056,Static Image,Discount,Discount untuk Makeup - Learn More,Learn More,/,Bundle Deal,Message
+AD00177,CMP0057,Website Direct,Problem Solution,Problem Solution untuk Bundle - Shop Now,Shop Now,/,20% Discount,Search
+AD00178,CMP0057,Website Direct,Educational,Educational untuk Bundle - Shop Now,Shop Now,/marketplace-official-store,10% Discount,Search
+AD00179,CMP0057,Static Image,Problem Solution,Problem Solution untuk Bundle - Claim Voucher,Claim Voucher,/product/glow-serum,10% Discount,Short Video
+AD00180,CMP0058,Story,Problem Solution,Problem Solution untuk Family Care - Subscribe,Subscribe,/lp/ugc-review,Voucher Cashback,Search
+AD00181,CMP0058,Story,Discount,Discount untuk Family Care - Add to Cart,Add To Cart,/bundle/glow-routine,10% Discount,Display
+AD00182,CMP0059,Reels,Discount,Discount untuk Family Care - Claim Voucher,Claim Voucher,/lp/ugc-review,No Offer,Display
+AD00183,CMP0059,Video,Discount,Discount untuk Family Care - Subscribe,Subscribe,/marketplace-official-store,No Offer,Short Video
+AD00184,CMP0059,Reels,Testimonial,Testimonial untuk Family Care - Buy Now,Buy Now,/product/glow-serum,Voucher Cashback,Search
+AD00185,CMP0060,Reels,Lifestyle,Lifestyle untuk Hair Care - Buy Now,Buy Now,/product/glow-serum,Buy 1 Get 1,Story
+AD00186,CMP0060,Static Image,Testimonial,Testimonial untuk Hair Care - Shop Now,Shop Now,/product/glow-serum,Bundle Deal,Feed
+AD00187,CMP0060,Video,Discount,Discount untuk Hair Care - Learn More,Learn More,/product/acne-calm,Free Shipping,Short Video
+AD00188,CMP0060,Carousel,Educational,Educational untuk Hair Care - Buy Now,Buy Now,/product/acne-calm,10% Discount,Feed
+AD00189,CMP0061,Affiliate Link,Problem Solution,Problem Solution untuk Body Care - Shop Now,Shop Now,/promo-flash-sale,20% Discount,Story
+AD00190,CMP0061,Affiliate Link,Problem Solution,Problem Solution untuk Body Care - Claim Voucher,Claim Voucher,/promo-flash-sale,Bundle Deal,Marketplace Slot
+AD00191,CMP0061,Affiliate Link,Product Benefit,Product Benefit untuk Body Care - Chat Admin,Chat Admin,/promo-flash-sale,Bundle Deal,Short Video
+AD00192,CMP0062,Video,Lifestyle,Lifestyle untuk Skincare - Shop Now,Shop Now,/product/glow-serum,20% Discount,Search
+AD00193,CMP0062,Story,Urgency,Urgency untuk Skincare - Chat Admin,Chat Admin,/bundle/glow-routine,Free Shipping,Message
+AD00194,CMP0062,Story,Discount,Discount untuk Skincare - Claim Voucher,Claim Voucher,/product/glow-serum,Bundle Deal,Feed

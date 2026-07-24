@@ -1,0 +1,13 @@
+channel_id,channel_name,channel_type,platform,paid_or_organic,objective_default
+CH001,Meta Ads,Paid Social,Meta,Paid,Conversion
+CH002,Google Ads,Paid Search,Google,Paid,Conversion
+CH003,TikTok Ads,Paid Social,TikTok,Paid,Traffic
+CH004,Instagram Organic,Organic Social,Instagram,Organic,Engagement
+CH005,TikTok Organic,Organic Social,TikTok,Organic,Engagement
+CH006,Email Marketing,Crm,Email,Owned,Retention
+CH007,WhatsApp Broadcast,Crm,WhatsApp,Owned,Retention
+CH008,SEO,Organic Search,Google,Organic,Traffic
+CH009,Affiliate,Partnership,Affiliate Network,Partner,Conversion
+CH010,KOL,Influencer,Multi Platform,Paid,Awareness
+CH011,Marketplace Ads,Paid Marketplace,Shopee/Tokopedia,Paid,Conversion
+CH012,Direct,Direct,Website,Organic,Conversion
